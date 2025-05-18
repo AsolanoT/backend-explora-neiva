@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.corhuila.app_explora_neiva.AppExploraNeivaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 10.22 s -- in com.corhuila.app_explora_neiva.AppExploraNeivaApplicationTests
